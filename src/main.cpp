@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; //TODO
 
 int main(int argc, char* argv[]) {
   int num = argc - 1;
